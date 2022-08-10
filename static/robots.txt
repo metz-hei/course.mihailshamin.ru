@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://course.mihailshamin.ru/sitemap.xml

@@ -1,4 +1,4 @@
-# Вопросы к маркетингу
+# Вопросы к маркетологу
 
 ## Стратегия
 [Есть ли стратегия развития интернет-маркетинга?](https://vsevolodustinov.ru/blog/all/kak-sdelat-strategiyu-razvitiya-internet-marketinga/)

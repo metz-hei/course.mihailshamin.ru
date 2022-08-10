@@ -5,19 +5,27 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 module.exports = {
-  // ...
-  plugins: [
-    '@docusaurus/plugin-content-blog',
-    '@docusaurus/plugin-content-pages',
-  ],
+
   themes: ['@docusaurus/theme-classic'],
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          filename: 'sitemap.xml',
+        },
+      },
+    ],
+  ],
 };
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://course.mihailshamin.ru',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,14 +59,18 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Вопросы',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
-          {collapsible: false, to: '/design', label: 'Дизайнеру', position: 'left',},
+          {collapsible: false, to: '/po', label: 'К продакту', position: 'left',},
           {to: '/develop', label: 'Разработчику', position: 'left'},
+          {collapsible: false, to: '/design', label: 'Дизайнеру', position: 'left',},
+          {collapsible: false, to: '/marketing', label: 'Маркетологу', position: 'left',},
+          {collapsible: false, to: '/support', label: 'Поддержке', position: 'left',},
+          {collapsible: false, to: '/technical-writer', label: 'Техпису', position: 'left',},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
