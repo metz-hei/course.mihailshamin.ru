@@ -8,7 +8,7 @@
 
 [По циклу HADI](https://bureau.ru/soviet/20190425/): Гипотеза → Действие → Данные → Выводы
 
-[По таблица возможностей](https://docs.google.com/spreadsheets/d/15_gyzc0ft1QkAQlWSwYP3QLYYhf3VPMx6w_RXdr5bQs/edit#gid=0). IT-AGENCY
+[По таблице возможностей](./it-agency.md). IT-AGENCY
 
 ## Начните с вопросов
 

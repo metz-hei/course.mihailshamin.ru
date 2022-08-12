@@ -4,6 +4,4 @@
 ![https://github.com/doka-guide/content](./attachments/content.png)
 ![https://github.com/doka-guide/platform](./attachments/platform.png)
 
-Еще варианты:
-
-[Docusaurus](https://docusaurus.io)
+Готовые генераторы статичных сайтов: [Docusaurus](https://docusaurus.io), [VuePress](https://vuepress.vuejs.org), [Eleventy](https://www.11ty.dev)

@@ -12,4 +12,6 @@
 
 [Гайд по общению для сотрудников поддержки](https://sobakapav.ru/portfolio/e-gorod-guide). Собака Павлова
 
-[Письмо от Тейлора](./attachments/letterFromTaylor.pdf)
+[Письмо от Тейлора](./attachments/letterFromTaylor.pdf). Эпл
+
+[Стандарты работы кассира](https://bureau.ru/projects/delikat-cashier-guidelines/). Бюро Горбунова

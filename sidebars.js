@@ -1,5 +1,3 @@
-
-
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 
 module.exports = {
@@ -84,69 +82,120 @@ module.exports = {
       'develop/kpi',
       'develop/matrix',
     ],
-};
-
-/**
- module.exports = {
-  mySidebar: [
-    {
-      type: 'category',
-      label: 'Вопросы к дизайнеру',
-      collapsible: false,
-      link: {
-        type: 'doc',
-        id: 'design/index'
+  po: [
+      'po/index',
+      'po/business',
+      'po/product',
+      'po/customers',
+      'po/competitors',
+      {
+        type: 'category',
+        label: 'Как ищутся гипотезы?',
+        link: {
+          type: 'doc',
+          id: 'po/researches/index',
+        },
+        items: [
+          'po/researches/marketing',
+          'po/researches/functionalityAudit',
+          'po/researches/technicalAudit',
+          'po/researches/RFM',
+          'po/researches/scriptAudit',
+        ]
       },
-      items: [
-        {
-          type: 'category',
-          label: 'Как устроена работа над задачей?',
-          link: {
-            type: 'doc',
-            id: 'design/work/index',
+      'po/feedback',
+      {
+        type: 'category',
+        label: 'Как приоритизируются задачи?',
+        link: {
+          type: 'doc',
+          id: 'po/prioritization/index',
+        },
+        items: [
+          'po/prioritization/aarrr',
+          'po/prioritization/heart',
+          'po/prioritization/ducalis',
+          {
+            type: 'link',
+            label: 'По циклу HADI',
+            href: 'https://bureau.ru/soviet/20190425/',
           },
-          items: [
-            'design/work/workFirstPresentation',
-            'design/work/workSecondPresentation', 
-            'design/work/workSorting',
-          ]
-        },
-        'design/index',
-        'design/checklist', 
-        {
-          type: 'link',
-          label: 'Проводите ли юзабилити-тестирование?',
-          href: 'https://guides.kontur.ru/user-research/choosingresearch/',
-        },
-        'design/debt',
-        'design/rdpk',
-        'design/ds',
-        'design/tokens',
-        'design/matrix',  
-      ],
-    },
-  ],
-  mySidebar2: [
-    {
-      type: 'category',
-      label: 'Дев',
-      link: {
-        type: 'doc',
-        id: 'develop/index'
+          'po/prioritization/it-agency',
+        ]
       },
-      items: [
-        'develop/index',
-        'develop/dod', 
-        'develop/dor',
-        'develop/backup',
-      ],
-    },
-    {
-      type: 'link',
-      label: 'Learn more',
-      href: 'https://example.com',
-    },
-  ],
-};
+      'develop/docs/index',
+      'po/metrics',
+      'develop/logs',
+      'po/task-create',
+      'po/task-movement',
+      'po/storytelling',
+      'po/risks',
+      'po/team',
+      {
+        type: 'category',
+        label: 'Какие принципы приняты в команде?',
+        link: {
+          type: 'doc',
+          id: 'po/principles/index',
+        },
+        items: [
+          'po/principles/agile',
+          'po/principles/lean-startup',
+          'po/principles/hadi',
+          {
+            type: 'link',
+            label: 'Кодекс профессиональной этики',
+            href: 'https://bureau.ru/bb/soviet/20140623/',
+          },
+          'develop/dor',
+          {
+            type: 'link',
+            label: 'Делать ≠ Сделать',
+            href: 'https://bureau.ru/books/fff/demo/4',
+          },
+          'po/principles/first-time',
+          'po/principles/dont-move',
+          'po/principles/move',
+          'po/principles/meeting',
+          'po/principles/retro',
+          'po/principles/50',
+          {
+            type: 'link',
+            label: 'Не впритык',
+            href: 'https://bureau.ru/bb/soviet/20130909/',
+          },
+          'po/principles/fast-communication',
+          'po/principles/protocol',
+          'po/principles/in-out',
+          'po/principles/come-with-solution',
+          'develop/checklist',
+          {
+            type: 'link',
+            label: 'Технолог — тоже дизайнер',
+            href: 'https://vimeo.com/34066658',
+          },
+          'design/checklist',
+          {
+            type: 'link',
+            label: 'Дизайнер разделяет согласование и сдачу',
+            href: 'https://youtu.be/WIFG_yQMCz8',
+          },
 
-**/
+        ]
+      },
+      'po/team-metrics',
+      'po/happiness',
+  ],
+  support: [
+    'support/index',
+    'support/tickets',
+    'support/channels',
+    'support/guideline',
+    'support/sla',
+    'support/distribution-tickets',
+    'support/play',
+    'support/feedback',
+    'support/custdev',
+    'support/monitoring',
+  ]
+};

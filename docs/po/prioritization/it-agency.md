@@ -1,4 +1,4 @@
-# Таблица возможностей
+# По таблице возможностей
 
 [Скачать шаблон](https://docs.google.com/spreadsheets/d/15_gyzc0ft1QkAQlWSwYP3QLYYhf3VPMx6w_RXdr5bQs/edit?usp=sharing)
 

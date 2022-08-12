@@ -71,57 +71,71 @@ const config = {
           {collapsible: false, to: '/marketing', label: 'Маркетологу', position: 'left',},
           {collapsible: false, to: '/support', label: 'Поддержке', position: 'left',},
           {collapsible: false, to: '/technical-writer', label: 'Техпису', position: 'left',},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Вопросы',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'К продакту',
+                to: '/po',
+              },
+              {
+                label: 'Разработчику',
+                to: '/develop',
+              },
+              {
+                label: 'Дизайнеру',
+                to: '/design',
+              },
+              {
+                label: 'Маркетологу',
+                to: '/marketing',
+              },
+              {
+                label: 'Поддержке',
+                to: '/support',
+              },
+              {
+                label: 'Техпису',
+                to: '/technical-writer',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Связаться',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Инстаграм',
+                href: 'https://www.instagram.com/kopim.na.modelsplaid/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Телеграм',
+                href: 'https://t.me/MihailShamin',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Пинтерес',
+                href: 'https://www.pinterest.ru/Mihail_Shamin/',
+              },
+              {
+                label: 'shamin.michael@gmail.com',
+                href: 'mailto:shamin.michael@gmail.com',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Закинуть донатик',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                {
+                  html: 'Если было полезно, <a href="https://yoomoney.ru/to/41001868673971">поддержите автора</a>.',
+                },
+              ],
               },
             ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} Проект <a href="https://mihailshamin.ru">Михаила Шамина</a>`,
       },
       prism: {
         theme: lightCodeTheme,
