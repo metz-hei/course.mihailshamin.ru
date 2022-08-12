@@ -5,7 +5,6 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 module.exports = {
-
   themes: ['@docusaurus/theme-classic'],
   presets: [
     [
@@ -23,8 +22,8 @@ module.exports = {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Методичка для PM',
+  tagline: 'Готовая методичка по управлению проектом. Поможет подготовить и задать вопросы ключевым членам команды, чтобы познакомиться с их работой, планами, понять компетенции, выявить имеющиеся или потенциальные проблемы и степень их влияния на бизнес.',
   url: 'https://course.mihailshamin.ru',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -142,6 +141,14 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+};
+
+module.exports = {
+  plugins: [
+    ['docusaurus-plugin-yandex-metrica', {
+      counterID: '87077503',
+      }],
+  ],
 };
 
 module.exports = config;

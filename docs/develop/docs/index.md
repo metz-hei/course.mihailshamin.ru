@@ -24,15 +24,15 @@ displayed_sidebar: develop
 
 Поддерживается ли их актуальность?
 
-[Есть ли правила оформления задач?](../po/taskCreate.md)
+[Есть ли правила оформления задач?](../../po/task-create.md)
 
 Где ведется документация по API? Когда и кто документирует API?
 
 Есть ли релизный чек-лист?
 
-[Составляются ли тест-планы?](./docTestPlan.md)
+[Составляются ли тест-планы?](./test-plan.md)
 
-[Пишутся ли тест-кейсы?](./docTestCase.md)
+[Пишутся ли тест-кейсы?](./test-case.md)
 - Где хранятся?
 - Кто и когда актуализирует?
 - Каков процент покрытие кейсами?
@@ -49,7 +49,7 @@ displayed_sidebar: develop
 - Есть ли какие-то правила оформления?
 - Кто участвует в подготовке описания?
 - Примеры: [Мегаплан](https://megaplan.ru/news/updates/), [Figma](https://releases.figma.com/), [Контур](https://tech.skbkontur.ru/react-ui/#/Changelog), [Эгея](https://blogengine.ru/features/), [Тинькофф](https://digest.tb.ru), [Notion](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c), [Pixelmator](https://www.pixelmator.com/photo/updates/), [quarkly.io](https://quarkly.io/updates)
-- [Совет: Как рассказать о фиче](./docTellAboutFeature.md)
+- [Совет: Как рассказать о фиче](../../po/storytelling.md)
 
 Есть ли библиотека компонентов? 
 
@@ -72,7 +72,7 @@ displayed_sidebar: develop
 
 Есть ли SLA (Service Level Agreement / Соглашение об уровне сервиса) на работу системы? Какие метрики для нас важны?
 
-- [Доступность](./attachments/uptime.png)
+- [Доступность](../attachments/uptime.png)
 - Процент ответов типа 500х от сервиса
 - Время обслуживания запроса
 - Количество запросов в секунду + описание балансировщика нагрузки

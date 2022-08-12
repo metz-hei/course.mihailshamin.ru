@@ -1,3 +1,6 @@
+# Порядок в HEAD
+
+```html
 <!DOCTYPE html>
 <html lang="ru" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/">
 <head>
@@ -24,9 +27,6 @@
 <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120.png"/>
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152.png"/>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180.png"/>
-
-<!--Только на главной странице-->
-<meta name="yandex-verification" content="be1b40219c40a133" />
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -113,3 +113,5 @@ trackHash:true
 
  <h1>Просмотрите исходный код страницы</h1>
 
+
+```

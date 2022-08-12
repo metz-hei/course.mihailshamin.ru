@@ -12,7 +12,7 @@ sidebar_position: 1
 
 [Проводите ли юзабилити-тестирование?](https://guides.kontur.ru/user-research/choosingresearch/)
 
-[Как работаете с дизайн-долгом?](./designDebt.md)
+[Как работаете с дизайн-долгом?](./debt.md)
 
 [Есть ли редполитика?](./rdpk.md)
 

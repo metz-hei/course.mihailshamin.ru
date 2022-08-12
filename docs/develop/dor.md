@@ -20,7 +20,7 @@ Definition of Ready — список критериев для команды и
 
 Написаны [сценарии использования](https://www.notion.so/87f912d1a4864fcea6283c0e8111c92e)
 
-Задача прошла [чек-лист проектировщика](./developersChecklist.md)
+Задача прошла [чек-лист проектировщика](./checklist.md)
 
 Определен [Definition of Done](./dod.md)
 

@@ -2,11 +2,11 @@
 
 Миссия
 
-[Product Vision](./docProjectCharterProductVision.md)
+[Product Vision](./product-vision.md)
 
-[О продукте](../po/product.md)
+[О продукте](../../po/product.md)
 
-[О клиентах](../po/customers.md)
+[О клиентах](../../po/customers.md)
 
 Об устройстве системы
 - Определить базовые сценарии
@@ -27,15 +27,15 @@
 - Каким образом сайт встроен в эту стратегию?
 - Планируется ли дальнейшее продвижение сайта? Какими способами и чьими силами?
 
-[Стратегия выхода на рынок](../po/researches/strategy.md)
+[Стратегия выхода на рынок](../../po/researches/strategy.md)
 
 Бизнес-модель
 - Lean Canvas
 - Бизнес-модель по Остервальдеру
 
-[Unit-экономика](../po/researches/unitEconomics.md)
+Unit-экономика
 
-[Roadmap](./docProjectCharterRoadmap.md)
+[Roadmap](./roadmap.md)
 
 Состав команды
 

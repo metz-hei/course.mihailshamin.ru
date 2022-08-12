@@ -20,7 +20,7 @@ Sitemap
 
 Сайт доступен только по протоколу https
 
-[Порядок в head](technicalAuditHead.html)
+[Порядок в head](../researches/head.md)
 
 Внедрена микроразметка
 
