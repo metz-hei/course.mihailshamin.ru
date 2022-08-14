@@ -147,6 +147,7 @@ module.exports = {
   plugins: [
     ['docusaurus-plugin-yandex-metrica', {
       counterID: '87077503',
+      enableInProdOnly: false,
       }],
   ],
 };

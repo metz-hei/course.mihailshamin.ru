@@ -23,6 +23,7 @@ module.exports = {
           href: 'https://guides.kontur.ru/user-research/choosingresearch/',
         },
         'design/debt',
+        'design/principles',
         'design/rdpk',
         'design/ds',
         'design/tokens',
