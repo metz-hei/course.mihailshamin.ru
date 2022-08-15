@@ -60,7 +60,7 @@ const config = {
       navbar: {
         title: 'Вопросы',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Вопросы',
           src: 'img/logo.svg',
         },
         items: [
