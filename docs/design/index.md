@@ -20,6 +20,8 @@ sidebar_position: 1
 
 [Есть ли дизайн-система?](./ds.md)
 
+[Как организовано хранение и передача макетов](https://vc.ru/design/472857-product-design-architecture-kak-hranit-makety-proektov)
+
 [Используете ли токены?](./tokens.md)
 
 [Есть ли матрица компетенций дизайнера?](./matrix.md)
