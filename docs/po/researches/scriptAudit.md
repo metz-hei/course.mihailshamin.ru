@@ -148,6 +148,9 @@ SMS старым клиентам
 - Ответственный
 
 ## Ссылки
+
+[Customer Journey Map. Илона Саркисова](https://medium.com/design-pub/customer-journey-map-часть-1-6a08048d5599)
+
 [CUSTOMER JOURNEY MAP: АШАН](https://hardclient.com/auchan)
 
 [Пример описания сценария](https://docs.google.com/document/d/1sEz_Vx78qKrAWK5vJWaqUCNNyGDDIO3amfuDQW-746c/edit?usp=sharing)

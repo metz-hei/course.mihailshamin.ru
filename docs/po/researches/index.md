@@ -17,7 +17,13 @@
 
 [RFM-анализ](./RFM.md)
 
-[Анализ сценариев](./scriptAudit.md)
+[Анализ сценариев и CJM](./scriptAudit.md)
+
+[Юзабилити-тестирование](./usability.md)
+
+[UX-исследования](https://vc.ru/design/148299-21-metod-ux-issledovaniy-kakoy-vybrat)
+
+[База проверенных гипотез](https://beztz.net)
 
 
 ## Подтверждение гипотезы с помощью А/Б

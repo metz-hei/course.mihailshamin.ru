@@ -9,6 +9,8 @@
 
 Использует линтеры.
 
+Заботится о [Developer Experience](https://t.me/pmdaily/1012).
+
 Правильно ветвится: GitHub Flow, GitLab Flow, GitFlow.
 
 Установила и придерживается определенных правил пулл-реквестов:

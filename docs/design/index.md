@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Вопросы к дизайнеру
 
+[Как нанимаются дизайнеры?](./hire.md)
+
 [Есть ли Definition of Ready?](../develop/dor.md)
 
 [Как устроена работа над задачей?](./work/index.md)
