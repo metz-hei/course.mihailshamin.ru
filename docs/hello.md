@@ -10,6 +10,8 @@
 
 [Собака Павлова](https://www.sobakapav.ru)
 
+[MAX](https://www.m-a-x.design)
+
 ## Маркетинг и продвижение
 
 [IT-AGENCY](https://www.it-agency.ru)
