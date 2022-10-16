@@ -69,6 +69,7 @@ displayed_sidebar: develop
 Где ведется документация библиотеки компонентов? 
 - Storybook
 - knapsack.cloud
+- supernova.io
 
 Есть ли SLA (Service Level Agreement / Соглашение об уровне сервиса) на работу системы? Какие метрики для нас важны?
 

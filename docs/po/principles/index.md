@@ -36,6 +36,8 @@
 
 [Правило 50%](./50.md)
 
+[Disagree and commit](./disagree.md)
+
 [Не впритык](https://bureau.ru/bb/soviet/20130909/)
 
 Не работаем с длинными задачами (более 16 часов)

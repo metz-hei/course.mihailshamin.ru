@@ -20,6 +20,15 @@ module.exports = {
   ],
 };
 
+module.exports = {
+  plugins: [
+    ['docusaurus-plugin-yandex-metrica', {
+      counterID: '90309612',
+      enableInProdOnly: false,
+    }],
+  ],
+};
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Методичка для PM',
@@ -65,7 +74,7 @@ const config = {
         },
         items: [
           {collapsible: false, to: '/po', label: 'К продакту', position: 'left',},
-          {to: '/develop', label: 'Разработчику', position: 'left'},
+          {collapsible: false, to: '/develop', label: 'Разработчику', position: 'left'},
           {collapsible: false, to: '/design', label: 'Дизайнеру', position: 'left',},
           {collapsible: false, to: '/marketing', label: 'Маркетологу', position: 'left',},
           {collapsible: false, to: '/support', label: 'Поддержке', position: 'left',},
@@ -126,7 +135,7 @@ const config = {
             ],
           },
           {
-            title: 'Закинуть донатик',
+            title: 'Задонатить',
             items: [
                 {
                   html: 'Если было полезно, <a href="https://yoomoney.ru/to/41001868673971">поддержите автора</a>.',
@@ -142,12 +151,4 @@ const config = {
       },
     }),
 };
-module.exports = {
-  plugins: [
-    ['docusaurus-plugin-yandex-metrica', {
-      counterID: '90309612',
-    }],
-  ],
-};
-
 module.exports = config;
