@@ -5,6 +5,14 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 module.exports = {
+  plugins: [
+    ['docusaurus-plugin-yandex-metrica', {
+      counterID: '87077503',
+    }],
+  ],
+};
+
+module.exports = {
   themes: ['@docusaurus/theme-classic'],
   presets: [
     [
@@ -15,17 +23,16 @@ module.exports = {
           priority: 0.5,
           filename: 'sitemap.xml',
         },
+        gtag: {
+          trackingID: 'GTM-WXTSBMS',
+          anonymizeIP: true,
+        },
+        googleAnalytics: {
+          trackingID: 'G-R617MC5HJ8',
+          anonymizeIP: true, 
+        },
       },
     ],
-  ],
-};
-
-module.exports = {
-  plugins: [
-    ['docusaurus-plugin-yandex-metrica', {
-      counterID: '90309612',
-      enableInProdOnly: false,
-    }],
   ],
 };
 
