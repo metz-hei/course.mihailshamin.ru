@@ -56,6 +56,8 @@
 
 [Метод 360 градусов](./360-degree-feedback.md)
 
+[Дизайн без стресса](https://collab.ldwg.ru/stressless-design)
+
 ## Для разработчика
 
 Работает по [чек-листу разработчика](../../develop/checklist.md)
