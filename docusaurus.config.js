@@ -5,39 +5,14 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 module.exports = {
+  themes: ['@docusaurus/theme-classic'],
+};
+const config = {
   plugins: [
     ['docusaurus-plugin-yandex-metrica', {
-      counterID: '87077503',
+      counterID: '91063509',
     }],
-  ],
-};
-
-module.exports = {
-  themes: ['@docusaurus/theme-classic'],
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        sitemap: {
-          changefreq: 'weekly',
-          priority: 0.5,
-          filename: 'sitemap.xml',
-        },
-        gtag: {
-          trackingID: 'GTM-WXTSBMS',
-          anonymizeIP: true,
-        },
-        googleAnalytics: {
-          trackingID: 'G-R617MC5HJ8',
-          anonymizeIP: true, 
-        },
-      },
-    ],
-  ],
-};
-
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+],
   title: 'Методичка для PM',
   tagline: 'Готовая методичка по управлению проектом. Поможет подготовить и задать вопросы ключевым членам команды, чтобы познакомиться с их работой, планами, понять компетенции, выявить имеющиеся или потенциальные проблемы и степень их влияния на бизнес.',
   url: 'https://course.mihailshamin.ru',
@@ -45,10 +20,6 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
@@ -65,6 +36,11 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          filename: 'sitemap.xml',
         },
       }),
     ],
@@ -158,4 +134,5 @@ const config = {
       },
     }),
 };
+
 module.exports = config;

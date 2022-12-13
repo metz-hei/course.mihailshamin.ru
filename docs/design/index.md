@@ -22,7 +22,7 @@ sidebar_position: 1
 
 [Есть ли дизайн-система?](./ds.md)
 
-[Как организовано хранение и передача макетов](https://vc.ru/design/472857-product-design-architecture-kak-hranit-makety-proektov)
+[Как организовано хранение и передача макетов](./layouts.md)
 
 [Используете ли токены?](./tokens.md)
 

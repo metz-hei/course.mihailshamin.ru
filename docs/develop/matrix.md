@@ -23,3 +23,5 @@
 [Developers roadmap](https://github.com/fullstack-development/developers-roadmap). Metalamp
 
 [Отслеживаете ли вы производительность программистов?](https://bureau.ru/soviet/20200625/) Дизайн-бюро Артема Горбунова
+
+[Карта навыков и компетенций тимлидов](https://tlroadmap.io)
