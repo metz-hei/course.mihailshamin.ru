@@ -59,3 +59,5 @@
 ## Ссылки
 
 [МАХ. Процесс работы над задачей](https://thread-acai-078.notion.site/bee55fe5703d4bd5bf621c467cdb0454)
+
+[Навыки и требования к аналитикам данных в Яндексе](https://gopractice.ru/skills/data_analysts_levels/)
