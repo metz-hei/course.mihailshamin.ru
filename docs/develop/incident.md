@@ -1,3 +1,6 @@
+---
+sidebar_position: 8
+---
 # Как устроен Incident Management?
 
 Связан ли мониторинг системы с Incident Management?
