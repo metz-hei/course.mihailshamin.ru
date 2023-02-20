@@ -15,7 +15,6 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@aldridged/docusaurus-plugin-lunr": "^1.0.0-alpha.10",
     "@docusaurus/core": "^2.2.0",
     "@docusaurus/mdx-loader": "^2.2.0",
     "@docusaurus/plugin-google-analytics": "^2.2.0",
@@ -26,10 +25,10 @@
     "@mdx-js/mdx": "^2.1.5",
     "@mdx-js/react": "^1.6.22",
     "@sindresorhus/is": "^5.3.0",
+    "caniuse-lite": "^1.0.30001456",
     "cheerio": "^1.0.0-rc.12",
     "clsx": "^1.2.1",
     "core-js": "^3.26.0",
-    "docusaurus-lunr-search": "^2.1.0",
     "docusaurus-plugin-yandex-metrica": "^1.1.0",
     "fix": "^0.0.3",
     "got": "^12.5.2",

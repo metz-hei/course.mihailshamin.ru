@@ -1,5 +1,5 @@
 # Где храните документацию?
-Понравилось как сделано у [Доки](https://doka.guide/).
+Очень хорошее решение по хранению и сборке у [Доки](https://doka.guide/).
 
 ![https://github.com/doka-guide/content](./attachments/content.png)
 ![https://github.com/doka-guide/platform](./attachments/platform.png)
