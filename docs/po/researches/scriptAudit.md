@@ -151,6 +151,8 @@ SMS старым клиентам
 
 [Customer Journey Map. Илона Саркисова](https://medium.com/design-pub/customer-journey-map-часть-1-6a08048d5599)
 
+[Что такое Customer Journey Map и как построить ее правильно](https://ux-journal.ru/kak-stroit-customer-journey-map.html)
+
 [CUSTOMER JOURNEY MAP: АШАН](https://hardclient.com/auchan)
 
 [Пример описания сценария](https://docs.google.com/document/d/1sEz_Vx78qKrAWK5vJWaqUCNNyGDDIO3amfuDQW-746c/edit?usp=sharing)
