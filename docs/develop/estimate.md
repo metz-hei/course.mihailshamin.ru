@@ -23,3 +23,5 @@ sidebar_position: 4
    - [Делать ≠ Сделать](https://bureau.ru/books/fff/demo/4).
    - [Не впритык](https://bureau.ru/bb/soviet/20130909/).
    - При оценке учитываются чек-листы [проектировщика](../design/checklist.md) и [разработчика](./checklist.md).
+
+4. В чём измеряется оценка? 
