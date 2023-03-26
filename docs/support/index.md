@@ -11,7 +11,7 @@ sidebar_position: 1
 - Удержание клиентов/партнеров
 
 ## О чём стоит поговорить?
-1. [Как устроен Incident Management?](../develop/incident.md)
+1. [Как устроен Incident Management?](/develop/incident/index.md)
 2. Штат или аутсорс? Используете ли краудсорс?
 3. [Какую тикетную систему используете?](./tickets.md)
 4. [Как распределяются тикеты?](./distribution-tickets.md)

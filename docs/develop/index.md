@@ -15,7 +15,7 @@ sidebar_position: 1
 
 [Как организован мониторинг системы?](./monitoring.md)
 
-[Как устроен Incident Management?](./incident.md)
+[Как устроен Incident Management?](./incident/index.md)
 
 [Как устроено тестирование?](./test.md)
 
