@@ -14,8 +14,8 @@ const config = {
     }],
 
 ],
-  title: 'Методичка для PM',
-  tagline: 'Готовая методичка по управлению проектом. Поможет подготовить и задать вопросы ключевым членам команды, чтобы познакомиться с их работой, планами, понять компетенции, выявить имеющиеся или потенциальные проблемы и степень их влияния на бизнес.',
+  title: 'Анкета менеджера проектов',
+  tagline: 'Анкета менеджера проектов, которая поможет опросить ключевых членов команды и познакомиться с их работой, планами, понять компетенции, выявить имеющиеся или потенциальные проблемы и определить степень их влияния на бизнес.',
   url: 'https://course.mihailshamin.ru',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -34,6 +34,9 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+          editUrl: 'https://github.com/metz-hei/course.mihailshamin.ru',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
