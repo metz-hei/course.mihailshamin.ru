@@ -36,7 +36,7 @@ const config = {
           routeBasePath: '/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          editUrl: 'https://github.com/metz-hei/course.mihailshamin.ru',
+          editUrl: 'https://github.com/metz-hei/course.mihailshamin.ru/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
