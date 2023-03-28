@@ -1,5 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 13
+last_update:
+  date: 2023-03-28
+  author: Михаил Шамин
 ---
 # Как боретесь с техническим долгом?
 

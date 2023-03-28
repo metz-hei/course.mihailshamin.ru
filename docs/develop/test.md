@@ -1,5 +1,8 @@
 ---
-sidebar_position: 9
+sidebar_position: 7
+last_update:
+  date: 2023-03-28
+  author: Михаил Шамин
 ---
 # Как устроено тестирование?
 

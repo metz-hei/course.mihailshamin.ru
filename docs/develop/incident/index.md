@@ -1,5 +1,8 @@
 ---
-sidebar_position: 8
+sidebar_position: 12
+last_update:
+  date: 2023-03-28
+  author: Михаил Шамин
 ---
 # Как устроен Incident Management?
 
