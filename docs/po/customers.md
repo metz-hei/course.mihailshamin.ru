@@ -1,3 +1,9 @@
+---
+sidebar_position: 4
+last_update:
+  date: 2023-03-30
+  author: Михаил Шамин
+---
 # О клиентах
 
 Кто будет пользоваться сайтом? 
@@ -42,6 +48,5 @@
 
 Какой лексикон используют клиенты?
 
-## Ссылки
-
+## Ссылки по теме
 [Гайд для продакт-менеджеров: изучаем целевую аудиторию с помощью методики 5W, персоналий, job story](https://vc.ru/hr/109818-gayd-dlya-prodakt-menedzherov-izuchaem-celevuyu-auditoriyu-s-pomoshchyu-metodiki-5w-personaliy-job-story)

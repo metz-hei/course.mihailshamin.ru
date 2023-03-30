@@ -111,7 +111,5 @@ trackHash:true
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5L8GH7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
- <h1>Просмотрите исходный код страницы</h1>
-
 
 ```

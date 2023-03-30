@@ -1,3 +1,10 @@
+---
+sidebar_position: 7
+last_update:
+  date: 2023-03-30
+  author: Михаил Шамин
+---
+
 # Как собирается фидбэк?
 
 Внедрена ли методология Voice of the Customer?

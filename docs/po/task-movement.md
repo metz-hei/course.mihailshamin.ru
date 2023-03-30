@@ -1,3 +1,9 @@
+---
+sidebar_position: 11
+last_update:
+  date: 2023-03-30
+  author: Михаил Шамин
+---
 # Есть ли регламент движения задач?
 
 ![](./attachments/board.jpg)

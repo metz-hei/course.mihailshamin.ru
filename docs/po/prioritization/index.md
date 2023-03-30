@@ -1,3 +1,9 @@
+---
+sidebar_position: 8
+last_update:
+  date: 2023-03-30
+  author: Михаил Шамин
+---
 # Как приоритизируются задачи?
 
 [По системе AARRR](./aarrr.md)

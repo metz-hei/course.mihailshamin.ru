@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+last_update:
+  date: 2023-03-30
+  author: Михаил Шамин
 ---
 # Вопросы к продакту
 
@@ -15,7 +18,7 @@ sidebar_position: 1
 
 [Как ищутся гипотезы?](./researches/index.md)
 
-[Как собирается фидбэк? Внедрен ли VoC?](./feedback.md)
+[Как собирается фидбэк?](./feedback.md)
 
 [Как приоритизируются задачи?](./prioritization/index.md)
 
