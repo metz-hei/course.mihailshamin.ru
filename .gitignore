@@ -14,6 +14,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+version.json
+search-index.json
 
 npm-debug.log*
 yarn-debug.log*
