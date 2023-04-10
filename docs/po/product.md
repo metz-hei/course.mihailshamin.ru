@@ -1,8 +1,5 @@
 ---
 sidebar_position: 3
-last_update:
-  date: 2023-03-30
-  author: Михаил Шамин
 ---
 # О продукте
 

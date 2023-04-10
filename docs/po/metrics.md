@@ -1,8 +1,5 @@
 ---
 sidebar_position: 9
-last_update:
-  date: 2023-03-30
-  author: Михаил Шамин
 ---
 # Как устроена BI-платформа компании?
 

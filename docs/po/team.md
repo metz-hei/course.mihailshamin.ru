@@ -1,8 +1,5 @@
 ---
 sidebar_position: 14
-last_update:
-  date: 2023-03-30
-  author: Михаил Шамин
 ---
 # Кто в команде и как она устроена?
 
