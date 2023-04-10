@@ -34,7 +34,6 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           editUrl: 'https://github.com/metz-hei/course.mihailshamin.ru/tree/master/',
         },
