@@ -1,8 +1,5 @@
 ---
 sidebar_position: 15
-last_update:
-  date: 2023-03-28
-  author: Михаил Шамин
 ---
 
 # Делаете ли бэкапы?
