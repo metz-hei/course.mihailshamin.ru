@@ -8,7 +8,7 @@ sidebar_position: 1
 
 [Есть ли Definition of Ready?](../develop/dor.md)
 
-[Как устроена работа над задачей?](./work/index.md)
+[Как устроен дизайн-процесс?](./process.md)
 
 [Разработан ли чек-лист проектировщика?](./checklist.md)
 
