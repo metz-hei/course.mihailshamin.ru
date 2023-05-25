@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Install 🔧
         run: npm install
       - name: Build 🏗️
@@ -25,5 +25,5 @@ jobs:
         server: 31.31.196.170
         username: ${{ secrets.REG_LOGIN }}
         password: ${{ secrets.REG_PASS }}
-        local-dir: ./build/
+        local-dir: ../build/
         server-dir: /www/course.mihailshamin.ru/
