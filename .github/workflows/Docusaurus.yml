@@ -1,26 +1,23 @@
 on: push
 name: 🚀 Deploy website on push
 jobs:
-   build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v3
-      - name: Install 🔧
-        run: npm install
-      - name: Build 🏗️
-        run: npm run build;
-        
-   web-deploy:
-    needs: build
+  web-deploy:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+      
+    - name: 🔨 Build Project
+      run: |
+        npm install
+        npm run build
+    
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: 31.31.196.170
         username: ${{ secrets.REG_LOGIN }}
         password: ${{ secrets.REG_PASS }}
-        local-dir: build/
+        local-dir: ./build/
         server-dir: /www/course.mihailshamin.ru/
