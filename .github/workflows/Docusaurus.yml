@@ -22,5 +22,5 @@ jobs:
         server: 31.31.196.170
         username: ${{ secrets.REG_LOGIN }}
         password: ${{ secrets.REG_PASS }}
-        local-dir: ./build/
+        local-dir: build/
         server-dir: /www/course.mihailshamin.ru/
