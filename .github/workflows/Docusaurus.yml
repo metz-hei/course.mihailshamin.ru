@@ -16,14 +16,11 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v3
-    
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: 31.31.196.170
         username: ${{ secrets.REG_LOGIN }}
         password: ${{ secrets.REG_PASS }}
-        local-dir: ../build/
+        local-dir: ./build/
         server-dir: /www/course.mihailshamin.ru/
