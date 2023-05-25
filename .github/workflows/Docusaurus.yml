@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: 31.31.196.170
-        username: u1526758
-        password: ${{ secrets.REG }}
+        username: ${{ secrets.REG_LOGIN }}
+        password: ${{ secrets.REG_PASS }}
