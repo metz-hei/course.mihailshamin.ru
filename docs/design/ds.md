@@ -16,3 +16,6 @@
 9. Покрыты ли компоненты тестами?
 10. Как устроен релизноутс дизайн-системы?
 11. [Какие метрики позволяют вам оценивать эффективность и окупаемость?](https://thedesignsystem.guide/design-system-metrics)
+
+## Ссылки
+[Мультиплатформенный процесс разработки дизайн-системы](https://www.figma.com/file/cAkztHg7H1era4PJC86r7R/The-multi-platform-development-process?type=design&node-id=4%3A72&mode=design&t=WhDFT94j6MQ9h1eV-1)
