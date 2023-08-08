@@ -62,3 +62,5 @@
 [Проектировщик интерфейсов в Контуре](https://guides.kontur.ru/principles/uidesigner/)
 
 [Логотип Додо-пиццы: как ставили задачу и планировали сроки](https://sila-uma.ru/2013/09/11/artgorbunov_task/)
+
+[Как выстроить дизайн-процесс при проектировании сложных продуктов: опыт команды Selectel](https://vc.ru/design/750290-kak-vystroit-dizayn-process-pri-proektirovanii-slozhnyh-produktov-opyt-komandy-selectel)

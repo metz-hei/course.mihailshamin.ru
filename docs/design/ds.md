@@ -16,6 +16,11 @@
 9. Покрыты ли компоненты тестами?
 10. Как устроен релизноутс дизайн-системы?
 11. [Какие метрики позволяют вам оценивать эффективность и окупаемость?](https://thedesignsystem.guide/design-system-metrics)
+12. Есть ли библиотека иллюстраций и гайдлайны?
 
 ## Ссылки
 [Мультиплатформенный процесс разработки дизайн-системы](https://www.figma.com/file/cAkztHg7H1era4PJC86r7R/The-multi-platform-development-process?type=design&node-id=4%3A72&mode=design&t=WhDFT94j6MQ9h1eV-1)
+
+[Иллюстрации как часть дизайн-системы цифрового продукта](https://youtu.be/dV1RpqgmRcM)
+
+[СБОЛ. Гайдлайн по иллюстрациям](https://www.figma.com/proto/9kQUBBBEZxNKZZEomQIvdB/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D0%BC-%D0%A1%D0%91%D0%9E%D0%9B?page-id=10%3A1226&node-id=50-2861&viewport=3043%2C1471%2C0.12&scaling=contain&starting-point-node-id=50%3A2861&mode=design&t=c5yljWvYACyTiuxn-1)
