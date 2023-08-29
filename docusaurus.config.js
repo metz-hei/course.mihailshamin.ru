@@ -10,7 +10,7 @@ module.exports = {
 const config = {
   plugins: [
     ['docusaurus-plugin-yandex-metrica', {
-      counterID: '91063509',
+      counterID: '87077503',
     }],
 
 ],
