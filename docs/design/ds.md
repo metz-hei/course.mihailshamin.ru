@@ -20,6 +20,8 @@
 13. [Как обстоят дела с доступностью?](https://weblind.ru/) 
 
 ## Ссылки
+[Консистентность в дизайне](https://awdee.ru/consistency-in-design/)
+
 [Мультиплатформенный процесс разработки дизайн-системы](https://www.figma.com/file/cAkztHg7H1era4PJC86r7R/The-multi-platform-development-process?type=design&node-id=4%3A72&mode=design&t=WhDFT94j6MQ9h1eV-1)
 
 [Иллюстрации как часть дизайн-системы цифрового продукта](https://youtu.be/dV1RpqgmRcM)

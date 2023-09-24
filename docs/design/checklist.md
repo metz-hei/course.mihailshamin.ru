@@ -104,3 +104,5 @@
 [Эталонные сервисные модели и паттерны](https://hardclient.com)
 
 [Самостоятельная проверка интерфейса](https://ivanzviahin.by/blog/all/check-list-to-verify-the-interface/). Ivan Zviahin
+
+[10 эвристик юзабилити от Якоба Нильсена](https://1ps.ru/blog/sites/2023/10-evristik-yuzabiliti-ot-yakoba-nilsena/)
