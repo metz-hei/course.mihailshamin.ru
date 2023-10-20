@@ -8,7 +8,7 @@ last_update:
 
 В этом документе описаны принципы и способы проведения пользовательских исследований. Все это поможет исследователям и командам разработки договариваться и создавать полезные сервисы для людей.
 
-По мотивам [принципов пользовательских исследований в Контуре](https://guides.kontur.ru/user-research/usabilityresearch/).
+По мотивам [принципов пользовательских исследований в Контуре](https://guides.kontur.ru/principles/user-research/usabilityresearch/).
 
 ![](./po/../../attachments/Scheme@2x.png)
 
@@ -36,8 +36,6 @@ last_update:
 [A/B-тестирование через Метрику](https://yandex.ru/adv/solutions/cases/toyota-avtomir-ab-test)
 
 [A/B-тестирование через Google Optimize](https://tilda.education/articles-yourfirstabtest#rec4326447)
-
-[Как вы определяете размер выборки и статистическую значимость при проведении A/B тестов?](https://tools.driveback.ru)
 
 
 ## Результат исследований

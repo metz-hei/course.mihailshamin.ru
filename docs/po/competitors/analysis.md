@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Как следите за развитием конкурентов?
 
-- При помощи сервисов: Ahrefs, SimilarWeb, PR-CY, [App Annie](https://www.appannie.com/ru/) и [SensorTower](https://sensortower.com)
+- При помощи сервисов: Ahrefs, SimilarWeb, PR-CY, [App Annie](https://www.data.ai/ru/) и [SensorTower](https://sensortower.com)
   - Количество трафика
   - Определить топовые страницы входа пользователей (как они устроены, куда ведут, как помогают пользователю решить его проблему)
   - Источники трафика

@@ -71,7 +71,7 @@ sidebar_position: 7
 
 Нагрузочное тестирование:
 - JMeter
-- [Яндекс.Танк](https://yandex.ru/dev/tank/)
+- Яндекс.Танк
 
 Ручное тестирование под разные устройства:
 - [iloveadaptive.com/ru](http://iloveadaptive.com/ru/)
