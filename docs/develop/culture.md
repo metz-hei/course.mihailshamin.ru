@@ -30,7 +30,7 @@ sidebar_position: 4
 - Знание и уместное использование различных приёмов: [Guard Clause](https://bureau.ru/soviet/20230209/), [магические числа](https://bureau.ru/soviet/20230406/)
 
 ## Ссылки по теме
-[Developer Experience](https://t.me/pmdaily/1012).
+[Developer Experience](https://t.me/pmdaily/1012). Фёдор Борщёв
 
 [Автотесты «на пальцах»](https://bureau.ru/soviet/20200213/). Дизайн-бюро Артёма Горбунова
 
