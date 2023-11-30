@@ -19,6 +19,8 @@ BI-платформа — довольно объёмный и технолог�
 6. [Как устроены пирамиды метрик приложения и фич?](./attachments/pyramidOfMetrics.png)
 
 ## Ссылки по теме
+[Какой график выбрать](./attachments/poster20201112.pdf). Александр Богачев
+
 [How InDrive Develops Its BI Platform by Dimitry Sherbenko | Cyprus Data Meetup #3](https://youtu.be/1_bHbn1w9IU)
 
 [Дерево метрик BI-платформы](https://miro.com/app/board/o9J_lTiwMWg=/)
