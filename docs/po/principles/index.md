@@ -58,7 +58,7 @@ last_update:
 
 [Приходи с решением, а не с проблемой](./come-with-solution.md)
 
-[Встречи 1 на 1](./one-on-one.md)
+[Встречи 1 на 1](./one-to-one.md)
 
 [Метод 360 градусов](./360-degree-feedback.md)
 
