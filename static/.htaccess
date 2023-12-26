@@ -5,3 +5,5 @@ RewriteRule .* - [E=SSL:s]
 RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
     # Проверяем, содержит ли домен www в начале URL.
 RewriteRule ^(.*)$ http%{ENV:SSL}://%1/$1 [R=301,L]
+
+ErrorDocument 404 /404.html
