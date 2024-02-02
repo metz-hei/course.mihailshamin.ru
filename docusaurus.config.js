@@ -108,7 +108,7 @@ const config = {
                 href: 'https://t.me/MihailShamin',
               },
               {
-                label: 'Пинтерес',
+                label: 'Пинтерест',
                 href: 'https://www.pinterest.ru/Mihail_Shamin/',
               },
               {
