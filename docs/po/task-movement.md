@@ -82,3 +82,11 @@ sidebar_position: 11
 После того, как все ветки будут смерджены, система автоматически двинет задачу в статус `Готово`.
 
 ![](./attachments/board3.png)
+
+
+## Ещё один пример
+[Tripple Diamond из Альфы](https://t.me/OxParshikov/33)
+
+![](./attachments/tripple-diamond.jpg)
+
+

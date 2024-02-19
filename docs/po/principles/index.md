@@ -66,6 +66,8 @@ last_update:
 
 [Дизайн без стресса](https://collab.ldwg.ru/stressless-design)
 
+[Нулевая терпимость к багам](./zero-bugs-policy)
+
 ## Для разработчика
 
 Работает [по чек-листу разработчика](../../develop/checklist.md)
