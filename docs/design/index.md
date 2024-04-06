@@ -12,7 +12,7 @@ sidebar_position: 1
 
 [Разработан ли чек-лист проектировщика?](./checklist.md)
 
-[Проводите ли юзабилити-тестирование?](https://guides.kontur.ru/user-research/choosingresearch/)
+[Проводите ли юзабилити-тестирование?](../po/researches/usability)
 
 [Как работаете с дизайн-долгом?](./debt.md)
 
