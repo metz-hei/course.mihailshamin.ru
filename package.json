@@ -1,6 +1,6 @@
 {
   "name": "docusaurus",
-  "version": "3.1.0",
+  "version": "3.2.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -16,13 +16,12 @@
     "yaspeller": "./node_modules/.bin/yaspeller ."
   },
   "dependencies": {
-    "@docusaurus/core": "3.1.0",
-    "@docusaurus/preset-classic": "3.1.0",
-    "@mdx-js/react": "^3",
-    "prism-react-renderer": "^2.1.0",
+    "@docusaurus/core": "^3.2.1",
     "@docusaurus/mdx-loader": "3.1.0",
     "@docusaurus/plugin-sitemap": "3.1.0",
+    "@docusaurus/preset-classic": "^3.2.1",
     "@mdx-js/mdx": "2.3.0",
+    "@mdx-js/react": "^3",
     "@sindresorhus/is": "^5.3.0",
     "caniuse-lite": "^1.0.30001456",
     "cheerio": "^1.0.0-rc.12",
@@ -34,6 +33,7 @@
     "htmlparser2": "^8.0.1",
     "npm": "^8.18.0",
     "parse5": "^7.1.1",
+    "prism-react-renderer": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark-mdx": "^2.1.5",

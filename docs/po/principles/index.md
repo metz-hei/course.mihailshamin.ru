@@ -1,8 +1,5 @@
 ---
 sidebar_position: 15
-last_update:
-  date: 2023-03-30
-  author: Михаил Шамин
 ---
 # Какие принципы приняты в команде?
 
@@ -18,7 +15,7 @@ last_update:
 
 ## Командные принципы
 
-Придерживаемся [кодекса профессиональной этики](https://bureau.ru/bb/soviet/20140623/)
+Придерживаемся кодекса профессиональной этики: [Бюро Горбунова](https://bureau.ru/bb/soviet/20140623/), [it-agency](https://docs.google.com/document/d/1qxfjzdBQ79nWu1PQVUr6ypbme_-B5rRj8MvZD905kFQ/edit?usp=sharing)
 
 Знакомы [с принципом ФФФ](https://bureau.ru/about/fff/)
 
