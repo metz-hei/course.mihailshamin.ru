@@ -11,7 +11,7 @@ const config = {
       counterID: '87077503',
     }]
 ],
-  title: 'Анкета менеджера IT-проектов',
+  title: 'Метода Сократа',
   tagline: 'Поможет опросить ключевых членов команды и познакомиться с их работой, планами, понять компетенции, выявить имеющиеся или потенциальные проблемы и определить степень их влияния на бизнес.',
   url: 'https://course.mihailshamin.ru',
   baseUrl: '/',
@@ -50,13 +50,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Вопросы',
+        title: 'Метода Сократа',
         logo: {
-          alt: 'Вопросы',
-          src: 'img/logo.svg',
+          alt: 'Метода Сократа',
+          src: 'img/logo.png',
+          srcDark: 'img/logo_dark.png',
         },
         items: [
-          {collapsible: false, to: '/po', label: 'К продакту', position: 'left',},
+          {collapsible: false, to: '/po', label: 'Вопросы к продакту', position: 'left',},
           {collapsible: false, to: '/develop', label: 'Разработчику', position: 'left'},
           {collapsible: false, to: '/design', label: 'Дизайнеру', position: 'left',},
           {collapsible: false, to: '/marketing', label: 'Маркетологу', position: 'left',},
