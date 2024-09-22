@@ -37,6 +37,8 @@
 - Работоспособные приложения и сервисы выполняют максимум работы, запрашивая минимум информации от пользователя.
 ## Ссылки
 
+[Дизайн экосистем](https://habr.com/ru/companies/rostelecom/articles/819635/)
+
 [Guiding Principles Behind the Readymag User Interface](https://readymag.com/webspecials/design-principles/)
 
 [An open source collection of Design Principles and methods](https://principles.design)
