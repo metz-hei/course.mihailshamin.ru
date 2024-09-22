@@ -76,6 +76,8 @@
 ## Ссылки
 [Проектировщик интерфейсов в Контуре](https://guides.kontur.ru/principles/uidesigner/)
 
+[Чек-лист дизайнера в Ozon](./attachments/checklist-ozon.png)
+
 [Эталонные сервисные модели и паттерны](https://hardclient.com)
 
 [Самостоятельная проверка интерфейса](https://ivanzviahin.by/blog/all/check-list-to-verify-the-interface/). Ivan Zviahin
