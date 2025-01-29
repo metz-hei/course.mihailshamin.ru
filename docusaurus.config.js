@@ -111,18 +111,14 @@ const config = {
               {
                 label: 'Пинтерест',
                 href: 'https://www.pinterest.ru/Mihail_Shamin/',
-              },
-              {
-                label: 'shamin.michael@gmail.com',
-                href: 'mailto:shamin.michael@gmail.com',
-              },
+              }
             ],
           },
           {
-            title: 'Задонатить',
+            title: 'Принести пользу',
             items: [
                 {
-                  html: 'Если было полезно, <a href="https://yoomoney.ru/to/41001868673971">поддержите автора</a>.',
+                  html: 'Если проект показался вам полезным, оцените его, поделитесь фидбеком или пришлите вопрос для коллекции — shamin.michael@gmail.com',
                 },
               ],
               },

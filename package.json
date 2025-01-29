@@ -1,6 +1,6 @@
 {
   "name": "docusaurus",
-  "version": "3.2.1",
+  "version": "3.7.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -16,8 +16,8 @@
     "yaspeller": "./node_modules/.bin/yaspeller ."
   },
   "dependencies": {
-    "@docusaurus/core": "^3.2.1",
-    "@docusaurus/mdx-loader": "3.1.0",
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/mdx-loader": "^3.7.0",
     "@docusaurus/plugin-sitemap": "3.1.0",
     "@docusaurus/preset-classic": "^3.2.1",
     "@mdx-js/mdx": "2.3.0",
