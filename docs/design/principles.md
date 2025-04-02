@@ -53,3 +53,5 @@
 [FIRE. Свойства работоспособной системы](https://bureau.ru/soviet/selected/artem-gorbunov/fire/)
 
 [Без обучения](https://ilyabirman.ru/meanwhile/all/bez-obucheniya/)
+
+[Набор высокоуровневых принципов для обеспечения доступности веб-интерфейсов](https://github.com/Heydon/principles-of-web-accessibility)
