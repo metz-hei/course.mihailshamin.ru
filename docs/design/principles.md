@@ -51,3 +51,5 @@
 [10 эвристик юзабилити от Якоба Нильсена](https://1ps.ru/blog/sites/2023/10-evristik-yuzabiliti-ot-yakoba-nilsena/)
 
 [FIRE. Свойства работоспособной системы](https://bureau.ru/soviet/selected/artem-gorbunov/fire/)
+
+[Без обучения](https://ilyabirman.ru/meanwhile/all/bez-obucheniya/)
