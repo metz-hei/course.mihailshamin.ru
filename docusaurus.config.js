@@ -15,14 +15,19 @@ const config = {
   tagline: 'Поможет опросить ключевых членов команды и познакомиться с их работой, планами, понять компетенции, выявить имеющиеся или потенциальные проблемы и определить степень их влияния на бизнес.',
   url: 'https://course.mihailshamin.ru',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
   },
 
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownImages: 'warn',
+    },
+  },
+  
   presets: [
     [
       'classic',
@@ -102,11 +107,11 @@ const config = {
             items: [
               {
                 label: 'Инстаграм',
-                href: 'https://www.instagram.com/kopim.na.modelsplaid/',
+                href: 'https://www.instagram.com/mihailshaminru',
               },
               {
                 label: 'Телеграм',
-                href: 'https://t.me/MihailShamin',
+                href: 'https://t.me/mihailshaminru',
               },
               {
                 label: 'Пинтерест',
@@ -115,10 +120,10 @@ const config = {
             ],
           },
           {
-            title: 'Принести пользу',
+            title: 'Прислать вопрос',
             items: [
                 {
-                  html: 'Если проект показался вам полезным, оцените его, поделитесь фидбеком или пришлите вопрос для коллекции — shamin.michael@gmail.com',
+                  html: 'Поделиться обратной связью или прислать вопрос для коллекции — shamin.michael@gmail.com',
                 },
               ],
               },
