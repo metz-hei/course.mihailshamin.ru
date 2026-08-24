@@ -1,9 +1,12 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-module.exports = {
-  themes: ['@docusaurus/theme-classic'],
-};
+require('dotenv').config({ path: '.env.local' });
+
+const algoliaAppId = process.env.ALGOLIA_APP_ID;
+const algoliaApiKey = process.env.ALGOLIA_API_KEY;
+const algoliaIndexName = process.env.ALGOLIA_INDEX_NAME;
+const hasAlgolia = Boolean(algoliaAppId && algoliaApiKey && algoliaIndexName);
 
 const config = {
   plugins: [
@@ -130,6 +133,19 @@ const config = {
             ],
         copyright: `© ${new Date().getFullYear()} Проект <a href="https://mihailshamin.ru">Михаила Шамина</a>`,
       },
+      ...(hasAlgolia
+        ? {
+            algolia: {
+              appId: algoliaAppId,
+              apiKey: algoliaApiKey,
+              indexName: algoliaIndexName,
+              contextualSearch: true,
+              searchPagePath: 'search',
+              insights: false,
+              placeholder: 'Поиск',
+            },
+          }
+        : {}),
     }),
 };
 
