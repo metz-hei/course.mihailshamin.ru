@@ -99,7 +99,7 @@ const config = {
             ],
           },
           {
-            title: 'Связаться',
+            title: 'Подписаться',
             items: [
               {
                 label: 'Телеграм',
