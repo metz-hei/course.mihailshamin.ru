@@ -1,13 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-require('dotenv').config({ path: '.env.local' });
-
-const algoliaAppId = process.env.ALGOLIA_APP_ID;
-const algoliaApiKey = process.env.ALGOLIA_API_KEY;
-const algoliaIndexName = process.env.ALGOLIA_INDEX_NAME;
-const hasAlgolia = Boolean(algoliaAppId && algoliaApiKey && algoliaIndexName);
-
 const config = {
   plugins: [
     ['docusaurus-plugin-yandex-metrica', {
@@ -109,12 +102,12 @@ const config = {
             title: 'Связаться',
             items: [
               {
-                label: 'Инстаграм',
-                href: 'https://www.instagram.com/mihailshaminru',
-              },
-              {
                 label: 'Телеграм',
                 href: 'https://t.me/mihailshaminru',
+              },
+              {
+                label: 'MAX',
+                href: 'https://max.ru/channel_mihailshamin',
               },
               {
                 label: 'Пинтерест',
@@ -133,19 +126,15 @@ const config = {
             ],
         copyright: `© ${new Date().getFullYear()} Проект <a href="https://mihailshamin.ru">Михаила Шамина</a>`,
       },
-      ...(hasAlgolia
-        ? {
-            algolia: {
-              appId: algoliaAppId,
-              apiKey: algoliaApiKey,
-              indexName: algoliaIndexName,
-              contextualSearch: true,
-              searchPagePath: 'search',
-              insights: false,
-              placeholder: 'Поиск',
-            },
-          }
-        : {}),
+      algolia: {
+        appId: 'OQSR7MLSIS',
+        apiKey: '35c8152bf1b91049e89a7629f33aea65',
+        indexName: 'course-mihailshamin',
+        contextualSearch: true,
+        searchPagePath: 'search',
+        insights: false,
+        placeholder: 'Поиск',
+      },
     }),
 };
 
